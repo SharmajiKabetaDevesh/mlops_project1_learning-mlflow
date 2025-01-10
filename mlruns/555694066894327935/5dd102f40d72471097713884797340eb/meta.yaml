@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/555694066894327935/5dd102f40d72471097713884797340eb/artifacts
+end_time: 1736505626782
+entry_point_name: ''
+experiment_id: '555694066894327935'
+lifecycle_stage: active
+run_id: 5dd102f40d72471097713884797340eb
+run_name: popular-koi-973
+run_uuid: 5dd102f40d72471097713884797340eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736505609629
+status: 3
+tags: []
+user_id: Admin

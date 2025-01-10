@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/555694066894327935/272e2a64dca7418a9ba355bdad6607bc/artifacts
+end_time: 1736506009650
+entry_point_name: ''
+experiment_id: '555694066894327935'
+lifecycle_stage: active
+run_id: 272e2a64dca7418a9ba355bdad6607bc
+run_name: rare-bird-573
+run_uuid: 272e2a64dca7418a9ba355bdad6607bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736506002537
+status: 3
+tags: []
+user_id: Admin

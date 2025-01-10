@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/555694066894327935/c9e8ade3f56a4e359f89c69ee1439fa4/artifacts
+end_time: 1736505586925
+entry_point_name: ''
+experiment_id: '555694066894327935'
+lifecycle_stage: active
+run_id: c9e8ade3f56a4e359f89c69ee1439fa4
+run_name: abrasive-kite-517
+run_uuid: c9e8ade3f56a4e359f89c69ee1439fa4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736505586781
+status: 4
+tags: []
+user_id: Admin

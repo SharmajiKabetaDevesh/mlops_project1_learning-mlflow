@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/555694066894327935/81dad47a62104bb8ba1fc0a36267ceb1/artifacts
+end_time: 1736506086754
+entry_point_name: ''
+experiment_id: '555694066894327935'
+lifecycle_stage: active
+run_id: 81dad47a62104bb8ba1fc0a36267ceb1
+run_name: incongruous-worm-782
+run_uuid: 81dad47a62104bb8ba1fc0a36267ceb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736506080381
+status: 3
+tags: []
+user_id: Admin
